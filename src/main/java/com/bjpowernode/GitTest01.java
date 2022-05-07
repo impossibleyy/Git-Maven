@@ -22,5 +22,6 @@ public class GitTest01 {
         int div = gitTest01.div(200, 100);
         System.out.println("结果是="+div);
         System.out.println("这是master修改的内容");
+        System.out.println("这是hot-fix修改的内容！！");
     }
 }
